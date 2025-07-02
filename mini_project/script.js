@@ -3,5 +3,5 @@ const main2 = document.querySelector(".main2");
 const button = document.querySelector("button");
 
 button.addEventListener("click", function () {
-  
+  console.log("hi");
 });
